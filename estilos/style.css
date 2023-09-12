@@ -19,3 +19,7 @@ main {
 img.lado {
     float:right;
 }
+
+iframe {
+    width: 500px;
+}
